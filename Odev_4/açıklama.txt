@@ -1,0 +1,2 @@
+Jaccard yöntemini uyguladım. Bu yöntemde metinleri set veri tipine dönüştürüp 
+metinlerin kesişim eleman sayısını birleşim eleman sayısına böldüm.
